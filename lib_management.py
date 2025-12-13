@@ -26,10 +26,10 @@ class LibrarySystem:
             self.db = {
                 'students': {
                     'SRN001': {'name': 'Alice Johnson', 'password': 'pass123'},
-                    'SRN002': {'name': 'Bob Smith', 'password': 'pass456'},
-                    'SRN003': {'name': 'Charlie Brown', 'password': 'pass789'},
-                    'SRN004': {'name': 'Diana Prince', 'password': 'pass101'},
-                    'SRN005': {'name': 'Eve Wilson', 'password': 'pass202'}
+                    'SRN002': {'name': 'Bob Smith', 'password': 'pass123'},
+                    'SRN003': {'name': 'Charlie Brown', 'password': 'pass123'},
+                    'SRN004': {'name': 'Diana Prince', 'password': 'pass123'},
+                    'SRN005': {'name': 'Eve Wilson', 'password': 'pass123'}
                 },
                 'admin': {'username': 'admin', 'password': 'admin123'},
                 'books': {
