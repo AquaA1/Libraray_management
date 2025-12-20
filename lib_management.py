@@ -29,7 +29,6 @@ class LibrarySystem:
                     'R25EH018': {'name': 'Anish Madhav', 'password': 'pass123'},
                     'R25EH032': {'name': 'Chinmay', 'password': 'pass123'},
                     'R25EH052': {'name': 'Edwin John', 'password': 'pass123'},
-                    'SRN005': {'name': 'Eve Wilson', 'password': 'pass123'}
                 },
                 'admin': {'username': 'admin', 'password': 'admin123'},
                 'books': {
