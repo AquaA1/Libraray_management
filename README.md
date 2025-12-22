@@ -8,3 +8,4 @@ Added the new srn to mimick the real srn
 
 # To-do
 I will add new pass and a way to add students 
+Many bugs has been found i will upload in one go
