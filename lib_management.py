@@ -6,13 +6,14 @@ import seaborn as sns
 from datetime import datetime, timedelta
 import os
 
+path=r"C:\Volume A\VS code codesss\gitt\Libraray_management\library_db.json"
 # Set style for visualizations
 sns.set_style("whitegrid")
 plt.rcParams['figure.figsize'] = (12, 6)
 
 
 class LibrarySystem:
-    def __init__(self, db_file='library_db.json'):
+    def __init__(self, db_file=path):
         self.db_file = db_file
         self.load_database()
 

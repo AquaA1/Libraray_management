@@ -1,0 +1,92 @@
+{
+    "students": {
+        "R25EH017": {
+            "name": "Anish Kumar",
+            "password": "pass123"
+        },
+        "R25EH018": {
+            "name": "Anish Madhav",
+            "password": "pass123"
+        },
+        "R25EH032": {
+            "name": "Chinmay",
+            "password": "pass123"
+        },
+        "R25EH052": {
+            "name": "Edwin John",
+            "password": "pass123"
+        },
+        "SRN005": {
+            "name": "Eve Wilson",
+            "password": "pass202"
+        }
+    },
+    "admin": {
+        "username": "admin",
+        "password": "admin123"
+    },
+    "books": {
+        "B001": {
+            "title": "Python Programming",
+            "genre": "Technology",
+            "available": true
+        },
+        "B002": {
+            "title": "Data Science Handbook",
+            "genre": "Technology",
+            "available": true
+        },
+        "B003": {
+            "title": "The Great Gatsby",
+            "genre": "Fiction",
+            "available": true
+        },
+        "B004": {
+            "title": "1984",
+            "genre": "Fiction",
+            "available": true
+        },
+        "B005": {
+            "title": "Sapiens",
+            "genre": "History",
+            "available": true
+        },
+        "B006": {
+            "title": "Educated",
+            "genre": "Biography",
+            "available": true
+        },
+        "B007": {
+            "title": "Atomic Habits",
+            "genre": "Self-Help",
+            "available": true
+        },
+        "B008": {
+            "title": "The Alchemist",
+            "genre": "Fiction",
+            "available": true
+        },
+        "B009": {
+            "title": "Machine Learning Basics",
+            "genre": "Technology",
+            "available": true
+        },
+        "B010": {
+            "title": "Brief History of Time",
+            "genre": "Science",
+            "available": true
+        }
+    },
+    "borrow_history": [
+        {
+            "srn": "R25EH017",
+            "student_name": "Anish Kumar",
+            "book_id": "B009",
+            "book_title": "Machine Learning Basics",
+            "genre": "Technology",
+            "borrow_date": "2025-12-28",
+            "return_date": "2025-12-28",
+            "duration": 0
+        }
+    ]
+}
